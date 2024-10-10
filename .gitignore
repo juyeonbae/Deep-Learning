@@ -4,12 +4,16 @@
 ### macOS ###
 # General
 .DS_Store
+.DSStore
+..DSStore
+/.DS_Store
+/..DS_Store
 .AppleDouble
 .LSOverride
 .ENV
-.jpg
-.mat
-.csv
+*.jpg
+*.mat
+*.csv
 
 # Icon must end with two \r
 Icon
